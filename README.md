@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bhanu</h1>
-<h2 align="center">Computer Science undergraduate at Deakin University</h2>
+<h2 align="center">Aspired to be an Embedded Systems Developer</h2>
 <h3 align="center">Passionate about Cloud Technologies, and DevOps</h3>
 
 <div align="center" style="margin-top: 40px;">
