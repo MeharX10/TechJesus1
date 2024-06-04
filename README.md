@@ -41,9 +41,6 @@
   <img src="https://profile-counter.glitch.me/TechJesus1/count.svg?" />
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github.com/TechJesus1/TechJesus1/blob/output/github-snake.svg" alt="Snake animation" />
-</div>
 
 
 
