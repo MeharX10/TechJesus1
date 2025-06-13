@@ -3,7 +3,7 @@
 <h3 align="center">Passionate about Cloud Technologies, and DevOps</h3>
 
 <div align="center" style="margin-top: 40px;">
-  <img src="https://streak-stats.demolab.com?user=TechJesus1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=MeharX10&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TechJesus1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" style="margin-left: 20px;" />
 </div>
 
